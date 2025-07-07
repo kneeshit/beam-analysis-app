@@ -1,6 +1,6 @@
 # Structural Beam Analysis Web Application
 
-A full-stack web application for structural beam analysis, converted from a Streamlit application to React.js frontend with FastAPI backend. This application performs comprehensive structural engineering calculations including shear force, bending moment, slope, and deflection analysis for beams with various load configurations.
+A full-stack web application for structural beam analysis, a React.js frontend with FastAPI backend. This application performs comprehensive structural engineering calculations including shear force, bending moment, slope, and deflection analysis for beams with various load configurations.
 
 ## Features
 
